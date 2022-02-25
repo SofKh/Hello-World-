@@ -1,6 +1,2 @@
-presentation = 'Hello World!'
 print(presentation)
-
-
-
-
+presentation = 'Hello World!'
